@@ -1,7 +1,9 @@
 # CS101_Algorithm-Data_Structures
 Shanghaitech CS101 Algorithm and Data Structures
 *****
-All my slides with notes are included in this repository.
+All my slides with notes are included in this repository.  
+They have been modified and added additional details for understanding.  
+May be useful when learning this course. Good luck and enjoy the journey!
 ## Topics Covered
 
 ### Basics
@@ -49,7 +51,3 @@ Floyd-Warshall
 ### Analysis
 Reductions_P_and_NP  
 NP NPC NPD  
-
-They have been modified and added additional details for understanding.
-
-May be useful for shanghaitech students when learning this course.
