@@ -5,50 +5,50 @@ All my slides with notes are included in this repository.
 ## Topics Covered
 
 ### Basics
-Array
-Liked_list
-Stack
-Queue
-Complexity_Analysis
-Hash_table
+Array  
+Liked_list  
+Stack  
+Queue  
+Complexity_Analysis  
+Hash_table  
 
 ### Sorting
-Insertion_and_Bubble_Sort
-Merge_Sort
-Quick_Sort
-Topological_Sort
+Insertion_and_Bubble_Sort  
+Merge_Sort  
+Quick_Sort  
+Topological_Sort  
 
 ### Divide_and_Conquer
 
 ### Trees
-Trees_Basics
-Binary_Trees
-Heaps
-Huffman_Coding
-Binary_Search_Trees
-AVL_Trees
-Red-Black_Trees
+Trees_Basics  
+Binary_Trees  
+Heaps  
+Huffman_Coding  
+Binary_Search_Trees  
+AVL_Trees  
+Red-Black_Trees  
 
 ### Graphs
-Disjoint_Sets
-Graph_Basics
-Graph_Traversal
-Topological_Sort
-Minimum_Spanning_Tree
-Prim's 
-Kruskal
-Dijkstras
-Bellman-Ford
-Astar_search_with_Backtrackin
-Floyd-Warshall
+Disjoint_Sets  
+Graph_Basics  
+Graph_Traversal  
+Topological_Sort  
+Minimum_Spanning_Tree  
+Prim's  
+Kruskal  
+Dijkstras  
+Bellman-Ford  
+Astar_search_with_Backtrackin  
+Floyd-Warshall  
 
 ### Greedy_Algorithm
 
 ### Dynamic_Programming
 
 ### Analysis
-Reductions_P_and_NP
-NP NPC NPD
+Reductions_P_and_NP  
+NP NPC NPD  
 
 They have been modified and added additional details for understanding.
 
