@@ -3,7 +3,7 @@ Shanghaitech CS101 Algorithm and Data Structures
 *****
 All my slides with notes are included in this repository.  
 They have been modified and added additional details for understanding.  
-May be useful when learning this course. Good luck and enjoy the journey!
+May be useful when learning this course.  Good luck and enjoy the journey!
 ## Topics Covered
 
 ### Basics
